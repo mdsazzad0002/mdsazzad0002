@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,6 +50,21 @@
 |29|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 |30|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 |31|[Paywise](https://github.com/mdsazzad0002/Paywise)||
+
+
+
+
+
+
+
+
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dengrweb1/) 
+[![Whatsapp](https://web.whatsapp.com/apple-touch-icon.png)](https://wa.me/+8801590084779)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mdsazzad0002)
+
 
 
 <p align="" >
