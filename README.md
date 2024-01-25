@@ -59,12 +59,6 @@
 
 
 
-### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dengrweb1/) 
-[![Whatsapp](https://web.whatsapp.com/apple-touch-icon.png)](https://wa.me/+8801590084779)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mdsazzad0002)
-
 
 
 <p align="" >
@@ -72,4 +66,10 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsazzad0002&layout=compact&theme=tokyonight" alt="SAZZAD's top language stats" />
 
 </p>
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dengrweb1/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mdsazzad0002)
+
 
