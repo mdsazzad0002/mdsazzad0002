@@ -35,9 +35,9 @@
 |31|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 
 
-<p align="center" >
-    <img height="165"  src="https://github-readme-stats.vercel.app/api?username=mdsazzad0002&count_private=true&include_all_commits=true&theme=tokyonight" alt="SAZZAD's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsazzad0002&layout=compact&theme=tokyonight" alt="SAZZAD's top language stats" />
+<p align="" >
+    <img height="165" width="100%" src="https://github-readme-stats.vercel.app/api?username=mdsazzad0002&count_private=true&include_all_commits=true&theme=tokyonight" alt="SAZZAD's stats" />
+    <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsazzad0002&layout=compact&theme=tokyonight" alt="SAZZAD's top language stats" />
 
 </p>
 
