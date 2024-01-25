@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 |#|Name & Link|Website & Live Link|
-|--|--|--|
+|--|------|------|
 |1|[technoshop](https://github.com/mdsazzad0002/technoshop)||
 |2|[car-landing](https://github.com/mdsazzad0002/car-landing)||
 |3|[Paywise](https://github.com/mdsazzad0002/Paywise)||
@@ -26,37 +26,6 @@
 |22|[E-School](https://github.com/mdsazzad0002/E-School)||
 |23|[Creative-Technologist](https://github.com/mdsazzad0002/Creative-Technologist)||
 |24|[Nordan-Fertilizer](https://github.com/mdsazzad0002/Nordan-Fertilizer)||
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 |25|[Real-State](https://github.com/mdsazzad0002/Real-State)||
 |26|[online-store](https://github.com/mdsazzad0002/online-store)||
 |27|[PDF-Shop](https://github.com/mdsazzad0002/PDF-Shop)||
@@ -67,8 +36,4 @@
 |31|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+
