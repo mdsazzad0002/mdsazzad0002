@@ -61,7 +61,7 @@
 |31|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsazzad0002&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Tanvir's top language stats" />
+  
 
 
 
@@ -75,7 +75,7 @@
 <p align="" >
     <img height="165"  src="https://github-readme-stats.vercel.app/api?username=mdsazzad0002&count_private=true&include_all_commits=true&theme=tokyonight" alt="SAZZAD's stats" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsazzad0002&layout=compact&theme=tokyonight" alt="SAZZAD's top language stats" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsazzad0002&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Tanvir's top language stats" />
 </p>
 
 
