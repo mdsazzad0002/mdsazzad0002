@@ -61,6 +61,8 @@
 |31|[Paywise](https://github.com/mdsazzad0002/Paywise)||
 
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsazzad0002&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Tanvir's top language stats" />
+
 
 
 
