@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm MD. SAZZAD</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsazzad0002&label=Profile%20views&color=0e75b6&style=flat" alt="mdsazzad0002" /> </p>
 
 #### I’m a Web Developer. Highly motivated Junior Web Developer with experience in building and maintaining web applications. Proficient in HTML, CSS, Bootstrap, JavaScript, and PHP with expertise in MVC frameworks like Laravel. I have a passion for developing clean, beautiful, responsive and user-friendly Applications. I completed Diploma in computer science and technology. I’m excited to embark on my professional journey and apply the knowledge and skills I have acquired during my studies. I have a strong passion for expanding my skill set and keeping up with emerging technologies.
 
