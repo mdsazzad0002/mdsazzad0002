@@ -24,7 +24,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsazzad0002/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mdsazzad0002)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-1877F2?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801590084779)
-[![Voice Call](https://img.shields.io/badge/tel-1877F2?style=flat-square&logo=tel&logoColor=white)](tel:8801590084779)
+[![Voice Call](https://img.shields.io/badge/tel-1877F2?style=flat-square&logo=Voice Call&logoColor=white)](tel:8801590084779)
 
 
 ### Our Most valuable Deasign
