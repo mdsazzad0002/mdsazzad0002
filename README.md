@@ -28,21 +28,21 @@
 
 ### Our Most valuable Deasign
 
-|#|Name & Link (Static)| # | Dynamic Project|
+|#|Name & Link (Static)| # |Name & Link Dynamic Project|
 |--|------|-----|------|
-|1|[technoshop](https://github.com/mdsazzad0002/technoshop)| 1| [Medtech Solutions](https://medtechsolutionsbd.com/)|
+|1|[technoshop](https://github.com/mdsazzad0002/technoshop)|1| [Medtech Solutions](https://medtechsolutionsbd.com/)|
 |2|[car-landing](https://github.com/mdsazzad0002/car-landing)|2 |[BD Soft Technology](https://bdsofttechnology.com/)
-|3|[Paywise](https://github.com/mdsazzad0002/Paywise)|
-|4|[NFT-Landingpage](https://github.com/mdsazzad0002/NFT-Landingpage)|
-|5|[d-tech](https://github.com/mdsazzad0002/d-tech)|
-|6|[Ecommerce-Food-Simple](https://github.com/mdsazzad0002/Ecommerce-Food-Simple)|
-|7|[E-commerce-Greco](https://github.com/mdsazzad0002/E-commerce-Greco)|
-|8|[Profile-Photographer](https://github.com/mdsazzad0002/Profile-Photographer)|
-|9|[Ecommerce-Shoe-Store](https://github.com/mdsazzad0002/Ecommerce-Shoe-Store)|
-|10|[Portfolio-Of-Developer](https://github.com/mdsazzad0002/Portfolio-Of-Developer)|
-|11|[Developer-Profile](https://github.com/mdsazzad0002/Developer-Profile)|
-|12|[Magazine](https://github.com/mdsazzad0002/Magazine)|
-|13|[Youtube-Video-Creator](https://github.com/mdsazzad0002/Youtube-Video-Creator)|
+|3|[Paywise](https://github.com/mdsazzad0002/Paywise)| 3 | [NotunThikana](https://notunthikana.com/)|
+|4|[NFT-Landingpage](https://github.com/mdsazzad0002/NFT-Landingpage)| 4| [Cohesive WatherPurifier](https://cohesivewaterpurifier.com/)|
+|5|[d-tech](https://github.com/mdsazzad0002/d-tech)|5| [J Mart ](https://jmartbd.com/)|
+|6|[Ecommerce-Food-Simple](https://github.com/mdsazzad0002/Ecommerce-Food-Simple)| 6| [Ajmin Mart](https://ajmainmart.org/)
+|7|[E-commerce-Greco](https://github.com/mdsazzad0002/E-commerce-Greco)|7| [D Engr. Web](https://dengrweb.com/)
+|8|[Profile-Photographer](https://github.com/mdsazzad0002/Profile-Photographer)| 8| [Code Camp](https://code.dengrweb.com/)|
+|9|[Ecommerce-Shoe-Store](https://github.com/mdsazzad0002/Ecommerce-Shoe-Store)| 9| [Quick Shop](https://bdquickshop.com/)
+|10|[Portfolio-Of-Developer](https://github.com/mdsazzad0002/Portfolio-Of-Developer)| 10|[Neta](https://neta.com.bd/)
+|11|[Developer-Profile](https://github.com/mdsazzad0002/Developer-Profile)| 11|[Bagsio](https://www.bagszio.com/)|
+|12|[Magazine](https://github.com/mdsazzad0002/Magazine)|12| [Katha24](https://katha24.com/)
+|13|[Youtube-Video-Creator](https://github.com/mdsazzad0002/Youtube-Video-Creator)|13|[NeuroSearch](https://neurosearch.inovatsoft.com/)|
 |14|[E-Commerce-DNK](https://github.com/mdsazzad0002/E-Commerce-DNK)|
 |15|[Cleaning-Services](https://github.com/mdsazzad0002/Cleaning-Services)|
 |16|[App-Landing-Page](https://github.com/mdsazzad0002/App-Landing-Page)|
