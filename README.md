@@ -28,10 +28,10 @@
 
 ### Our Most valuable Deasign
 
-|#|Name & Link|
-|--|------|
-|1|[technoshop](https://github.com/mdsazzad0002/technoshop)|
-|2|[car-landing](https://github.com/mdsazzad0002/car-landing)|
+|#|Name & Link (Static)| # | Dynamic Project|
+|--|------|-----|------|
+|1|[technoshop](https://github.com/mdsazzad0002/technoshop)| 1| [Medtech Solutions](https://medtechsolutionsbd.com/)|
+|2|[car-landing](https://github.com/mdsazzad0002/car-landing)|2 |[BD Soft Technology](https://bdsofttechnology.com/)
 |3|[Paywise](https://github.com/mdsazzad0002/Paywise)|
 |4|[NFT-Landingpage](https://github.com/mdsazzad0002/NFT-Landingpage)|
 |5|[d-tech](https://github.com/mdsazzad0002/d-tech)|
